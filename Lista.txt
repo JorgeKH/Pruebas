@@ -1,3 +1,6 @@
 Agua.
 Leche.
 Pepinillos.
+Soja.
+Lechuga.
+Tomate.
